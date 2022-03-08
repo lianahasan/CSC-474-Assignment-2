@@ -1,0 +1,211 @@
+id,Country,GDP per capita,Energy consumption per capita (kWh)
+634,Qatar,64.783,198418.12
+352,Iceland,71.351,179962.8
+702,Singapore,64.106,169886.08
+780,Trinidad and Tobago,16.637,142118.82
+784,United Arab Emirates,43.101,137317.77
+414,Kuwait,32,108127.06
+124,Canada,46.55,105539.88
+578,Norway,74.983,91240.272
+682,Saudi Arabia,23.139,89451.938
+512,Oman,15.343,84532.482
+840,United States,65.134,79897.151
+442,Luxembourg,115.429,76658.118
+36,Australia[g],54.764,70644.033
+795,Turkmenistan,8.125,67658.403
+410,South Korea,32.143,67083.32
+56,Belgium,46.2,65302.717
+752,Sweden,52.898,62046.921
+528,Netherlands,53.053,57046.584
+643,Russia,11.606,56756.466
+246,Finland[n],48.68,55118.024
+554,New Zealand,43.265,53224.651
+233,Estonia,23.734,50000.799
+40,Austria,49.701,46523.958
+398,Kazakhstan,9.793,46415.639
+344,Hong Kong (China),49.181,46370.72
+276,Germany,46.232,43703.379
+364,Iran,7.282,41354.455
+250,France[b],41.694,41281.299
+392,Japan,40.064,40888.804
+372,Ireland,81.645,37739.296
+705,Slovenia,26.058,37446.178
+458,Malaysia[f],11.414,37053.569
+376,Israel,46.378,36717.179
+756,Switzerland,85.139,36542.174
+724,Spain,29.816,34004.435
+208,Denmark,60.656,33534.557
+703,Slovakia,19.256,33458.196
+826,United Kingdom,41.855,32249.735
+616,Poland,15.727,31355.418
+112,Belarus,6.674,31081.284
+300,Greece,19.605,30383.697
+100,Bulgaria,9.704,29649.22
+380,Italy,33.09,29239.012
+348,Hungary,16.879,28488.966
+620,Portugal,23.351,28328.318
+156,China[a],10.004,27452.478
+196,Cyprus,20.818,27022.732
+710,South Africa,6.001,25619.735
+440,Lithuania,19.792,24641.049
+152,Chile,14.896,24269.273
+428,Latvia,17.883,23136.925
+191,Croatia,14.628,22870.486
+764,Thailand,7.851,22398.508
+862,Venezuela,4.733,21691.926
+792,Turkey,9.127,21609.123
+804,Ukraine,3.495,21501.22
+32,Argentina,10.041,21479.671
+642,Romania,12.914,19665.135
+31,Azerbaijan[k],4.782,18127.566
+484,Mexico,9.849,16810.783
+12,Algeria,3.975,16376.102
+76,Brazil,8.755,16325.047
+368,Iraq,5.73,15733.708
+860,Uzbekistan,1.756,15022.418
+807,North Macedonia,6.094,14919.496
+218,Ecuador,6.184,11899.704
+704,Vietnam,2.715,11861.738
+818,Egypt,3.161,10753
+170,Colombia,6.432,10618.229
+604,Peru,6.978,9924.199
+360,Indonesia,4.136,9146.767
+504,Morocco,3.282,7227.94
+356,India,2.116,6923.931
+608,Philippines,3.324,5200.079
+144,Sri Lanka,3.94,4671.618
+586,Pakistan,1.187,4566.901
+50,Bangladesh,1.846,2995.38
+4,Afghanistan,0.47,0
+8,Albania,5.303,0
+16,American Samoa (United States),15.345,0
+20,Andorra,40.961,0
+24,Angola,2.671,0
+660,Anguilla (United Kingdom),25.267,0
+28,Antigua and Barbuda,17.124,0
+51,Armenia,4.622,0
+533,Aruba (Netherlands),31.066,0
+44,Bahamas,34.905,0
+48,Bahrain,23.506,0
+52,Barbados,18.15,0
+84,Belize,4.887,0
+204,Benin,1.22,0
+60,Bermuda (United Kingdom),116.841,0
+64,Bhutan,3.36,0
+68,Bolivia,3.552,0
+70,Bosnia and Herzegovina,6.108,0
+72,Botswana,7.96,0
+92,British Virgin Islands (United Kingdom),43.2,0
+96,Brunei,31.106,0
+854,Burkina Faso,0.787,0
+108,Burundi,0.276,0
+116,Cambodia,1.644,0
+120,Cameroon,1.502,0
+132,Cape Verde,3.602,0
+136,Cayman Islands (United Kingdom),92.615,0
+140,Central African Republic,0.468,0
+148,Chad,0.707,0
+174,Comoros,1.369,0
+178,Congo,2.304,0
+184,Cook Islands (New Zealand),21.056,0
+188,Costa Rica,12.237,0
+192,Cuba,9.296,0
+531,Curaçao (Netherlands),19.025,0
+203,Czech Republic,23.452,0
+262,Djibouti,3.251,0
+212,Dominica,8.083,0
+214,Dominican Republic,8.282,0
+180,DR Congo,0.545,0
+626,East Timor,1.56,0
+222,El Salvador,4.187,0
+226,Equatorial Guinea,8.13,0
+232,Eritrea,0.566,0
+748,Eswatini,4.002,0
+231,Ethiopia,0.828,0
+583,F.S. Micronesia,3.632,0
+242,Fiji,6.184,0
+258,French Polynesia (France),21.588,0
+266,Gabon,7.771,0
+270,Gambia,0.776,0
+268,Georgia[r],4.439,0
+288,Ghana,2.324,0
+304,Greenland (Denmark),53.035,0
+308,Grenada,10.812,0
+320,Guatemala,4.363,0
+324,Guinea,0.967,0
+624,Guinea-Bissau,0.688,0
+328,Guyana,6.607,0
+332,Haiti,0.715,0
+340,Honduras,2.575,0
+384,Ivory Coast,2.276,0
+388,Jamaica,5.37,0
+400,Jordan,4.405,0
+404,Kenya,1.817,0
+296,Kiribati,1.644,0
+417,Kyrgyzstan,1.318,0
+418,Laos,2.625,0
+422,Lebanon,8.228,0
+426,Lesotho,1.158,0
+430,Liberia,0.523,0
+434,Libya,4.81,0
+438,Liechtenstein,178.868,0
+446,Macau (China),84.155,0
+450,Madagascar,0.523,0
+454,Malawi,0.435,0
+462,Maldives,10.625,0
+466,Mali,0.887,0
+470,Malta,33.78,0
+584,Marshall Islands,4.017,0
+478,Mauritania,1.678,0
+480,Mauritius[s],11.827,0
+498,Moldova[q],2.957,0
+492,Monaco,190.333,0
+496,Mongolia,4.295,0
+499,Montenegro,8.825,0
+500,Montserrat (United Kingdom),13.4,0
+508,Mozambique,0.504,0
+104,Myanmar,1.421,0
+516,Namibia,4.956,0
+520,Nauru,12,0
+524,Nepal,1.074,0
+540,New Caledonia (France),34.908,0
+558,Nicaragua,1.913,0
+562,Niger,0.555,0
+566,Nigeria,2.361,0
+408,North Korea,0.636,0
+585,Palau,15.556,0
+275,Palestine,3.425,0
+591,Panama,15.729,0
+598,Papua New Guinea,2.845,0
+600,Paraguay,5.406,0
+630,Puerto Rico,35.795,0
+646,Rwanda,0.82,0
+678,São Tomé and Príncipe,1.958,0
+659,Saint Kitts and Nevis,19.811,0
+662,Saint Lucia,11.596,0
+666,Saint Pierre and Miquelon,137.5,0
+674,San Marino,47.118,0
+686,Senegal,1.452,0
+688,Serbia,6.775,0
+690,Seychelles,17.327,0
+694,Sierra Leone,0.527,0
+534,Sint Maarten,24.024,0
+90,Solomon Islands,1.943,0
+706,Somalia,0.105,0
+728,South Sudan,0.448,0
+729,Sudan,0.815,0
+740,Suriname,6.363,0
+760,Syria,1.194,0
+762,Tajikistan,0.894,0
+834,Tanzania,1.085,0
+768,Togo,0.9,0
+776,Tonga,4.577,0
+788,Tunisia,3.317,0
+796,Turks and Caicos Islands,31.5,0
+798,Tuvalu,3.917,0
+800,Uganda,0.737,0
+858,Uruguay,16.189,0
+548,Vanuatu,3.02,0
+887,Yemen,0.855,0
+894,Zambia,1.292,0
+716,Zimbabwe,1.464,0
