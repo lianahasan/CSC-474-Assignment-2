@@ -1,4 +1,4 @@
-id,Country,GDP per capita,Energy consumption per capita (kWh),z-score(For GDP),z-score (Energy),,,GDP,,,Energy,
+id,Country,GDP per capita,Energy consumption per capita (kWh),z-score(For GDP),z-score (Energy),SignedValue,,GDP,,,Energy,
 634,Qatar,64.783,198418.12,1.64,3.83,2.19,,Mean,18.48,,Mean,44471.5
 352,Iceland,71.351,179962.8,1.87,3.37,1.50,,Standard Deviation ,28.30,,Standard Deviation ,40203.8
 702,Singapore,64.106,169886.08,1.61,3.12,1.51,,,,,,
