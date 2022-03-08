@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 300,
+  "background": "bisque",
+  "data": {
+    "name": "world",
+      "url": "data/world-110m.json",
+      "format": {
+        "type": "topojson",
+        "feature": "countries"
+      }
+  },
+  "transform": [{
+    "lookup": "id",
+    "from": {
+      "data": {
+        "url": "https://raw.githubusercontent.com/julia4ta/tutorials/master/Series%2002/Files/df_countrycode.csv"
+      },
+      "key": "id",
+      "fields": ["gdppc"]
+    }
+  }],
+  "projection": {
+    "type": "mercator"
+  },
+  "mark": {
+    "type": "geoshape",
+    "stroke" : "black"
+  },
+  "encoding": {
+    "color": {
+      "field": "gdppc",
+      "type": "quantitative",
+      "title" :"GDP Per Capita"
+    }
+  }
+}
